@@ -1,4 +1,4 @@
-# tuto : fullstack app using MERN 
+# tuto : fullstack app using MERN
 
 ***(with Redux and Mongoose)***
 

@@ -1,6 +1,6 @@
 # tuto : fullstack app using MERN
 
-***(with Redux and Mongoose)***
+**(with Redux and Mongoose)**
 
 This repo is part of the medium article about building fullstack app using MERN.
 

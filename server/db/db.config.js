@@ -11,5 +11,5 @@ require('dotenv').config();
 // localhost:
 mongoose.connect(
 `mongodb://127.0.0.1:27017/${process.env.DB_NAME}`, { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true })
-.then(() => console.log('Connected'))
+.then(() => console.log(`Connected, ${new Date()}`))
 .catch(err => console.log(err));
